@@ -1,6 +1,6 @@
 # RGCIE Tools - YAML提示词创作框架
 
-[![GitHub](https://img.shields.io/github/license/leoyang1984/RGCIE_TOOLS)](https://github.com/leoyang1984/RGCIE_TOOLS)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/leoyang1984/RGCIE_TOOLS)](https://github.com/leoyang1984/RGCIE_TOOLS/issues)
 [![GitHub stars](https://img.shields.io/github/stars/leoyang1984/RGCIE_TOOLS)](https://github.com/leoyang1984/RGCIE_TOOLS/stargazers)
 
